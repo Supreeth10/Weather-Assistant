@@ -1,0 +1,90 @@
+{
+  "id": "e797a7b3-919a-460d-bab0-5ab4416dbf3d",
+  "name": "AstronomyIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0053bbb4-8713-45a7-ab6d-ecddaed212db",
+          "name": "astronomy",
+          "required": true,
+          "dataType": "@astronomy",
+          "value": "$astronomy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "for which event would you like more information? sunset, sunrise, moonset, moonrise?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ad032b67-a4ba-41e2-a0a4-95ba72d8f2bb",
+          "name": "datetime",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$datetime",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "for which day would you like this information?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "661c963e-71c8-49bf-b6e6-6de0bc300954",
+          "name": "geocity",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$geocity",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which city would you like this information?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

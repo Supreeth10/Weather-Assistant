@@ -1,0 +1,99 @@
+{
+  "id": "f69b6ff8-c8d9-43f1-af95-8151f1e47692",
+  "name": "JacketIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bc15fee0-eca5-4c1f-a8e4-6a156491d818",
+          "name": "datetime",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$datetime",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "for which date would you like this information"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b133b08d-012a-4604-919f-cdb5c5c7c282",
+          "name": "geocity",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$geocity",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "for which city would you like this information"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "be798558-1815-4f01-be9d-5421646dc71c",
+          "name": "jacket",
+          "required": false,
+          "dataType": "@jacket",
+          "value": "$jacket",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "02d3ae01-a502-40c9-a08e-a6d9058dff5b",
+          "name": "jacketType",
+          "required": false,
+          "dataType": "@jacketType",
+          "value": "$jacketType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

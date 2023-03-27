@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "517a3f4d-ef3d-497f-a663-d46b312c65f7",
+    "data": [
+      {
+        "text": "what kind of ",
+        "userDefined": false
+      },
+      {
+        "text": "coat",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": true
+      },
+      {
+        "text": " should I wear ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ecb85a2-eedc-46a6-8cef-56de1164eb92",
+    "data": [
+      {
+        "text": "I am thinking of wearing a ",
+        "userDefined": false
+      },
+      {
+        "text": "light coat",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": ". Would it be suitable?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d779ba1e-039f-426f-b583-625b4ac7dead",
+    "data": [
+      {
+        "text": "Would a ",
+        "userDefined": false
+      },
+      {
+        "text": "raincoat",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": false
+      },
+      {
+        "text": " be practical to wear in ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66479bab-8466-4861-94d3-c87235c647a7",
+    "data": [
+      {
+        "text": "Can a ",
+        "userDefined": false
+      },
+      {
+        "text": "warm coat",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": false
+      },
+      {
+        "text": " provide sufficient protection for  ",
+        "userDefined": false
+      },
+      {
+        "text": "todays",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": true
+      },
+      {
+        "text": " weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6fa3391-e825-4aa5-ae7f-7266884de5ff",
+    "data": [
+      {
+        "text": "Is it advisable to wear a ",
+        "userDefined": false
+      },
+      {
+        "text": "sweatshirt",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": false
+      },
+      {
+        "text": " in  ",
+        "userDefined": false
+      },
+      {
+        "text": "todays",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": true
+      },
+      {
+        "text": " weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d80345a-26f4-4cb2-8fc7-c4aeb4983fd0",
+    "data": [
+      {
+        "text": "Would wearing a ",
+        "userDefined": false
+      },
+      {
+        "text": "heavycoat",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": false
+      },
+      {
+        "text": " be comfortable for ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": true
+      },
+      {
+        "text": " weather conditions in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea577314-624a-4469-bc0e-78f78432c43e",
+    "data": [
+      {
+        "text": "Can you suggest if a ",
+        "userDefined": false
+      },
+      {
+        "text": "windcheater",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": false
+      },
+      {
+        "text": " is appropriate to wear for ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ae19314-60e7-4f91-bac9-d009b6211f2c",
+    "data": [
+      {
+        "text": "Is it too warm/cold to wear a ",
+        "userDefined": false
+      },
+      {
+        "text": "sweatshirt",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef404b05-07f6-431e-a648-b2d487406400",
+    "data": [
+      {
+        "text": "Would a ",
+        "userDefined": false
+      },
+      {
+        "text": "light coat",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": false
+      },
+      {
+        "text": " be a good choice of clothing for ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ed05425-dd99-4b4c-a3bc-1f1f975cedb7",
+    "data": [
+      {
+        "text": "Is it appropriate to wear a ",
+        "userDefined": false
+      },
+      {
+        "text": "warm coat",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s weather ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcc942f5-ed5e-4e32-98c2-fbd4d5b26220",
+    "data": [
+      {
+        "text": "What type of ",
+        "userDefined": false
+      },
+      {
+        "text": "coat",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": true
+      },
+      {
+        "text": " would be appropriate for ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fbb218b-f400-48e0-a092-f4d158f359ef",
+    "data": [
+      {
+        "text": "Can I wear a ",
+        "userDefined": false
+      },
+      {
+        "text": "raincoat",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfc269bb-6407-42c6-9fcb-d971aa9f1e78",
+    "data": [
+      {
+        "text": "I\u0027m not sure what ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": false
+      },
+      {
+        "text": " to wear in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": ". Can you assist me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79eb5ec1-41ee-4a0d-968f-07c6af7c4f1d",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": false
+      },
+      {
+        "text": " would be most suitable for ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " temperature in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bccf0f8d-408a-4d2a-b5b0-2cc7a4245f18",
+    "data": [
+      {
+        "text": "What kind of ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": false
+      },
+      {
+        "text": " should I wear for the ",
+        "userDefined": false
+      },
+      {
+        "text": "todays",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " weather conditions in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a309b44-49c4-4aa6-93d9-0b238ceaa24a",
+    "data": [
+      {
+        "text": "Could you help me pick out a ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": true
+      },
+      {
+        "text": " for the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da49f0df-abc9-4c6d-bc4f-163534810163",
+    "data": [
+      {
+        "text": "Is it cold enough in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " to wear a ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": false
+      },
+      {
+        "text": "? If so, what kind?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fd68141-9add-455d-9d2d-656b1dbc6c53",
+    "data": [
+      {
+        "text": "I\u0027m heading out in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": ". Can you suggest the right ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": true
+      },
+      {
+        "text": " for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b23a36c-11a4-4f33-937f-80359e00ebd7",
+    "data": [
+      {
+        "text": "Which type of ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": false
+      },
+      {
+        "text": " is best for the ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrows",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": true
+      },
+      {
+        "text": " weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7b92dbd-6939-4d5b-827e-a468107f89a4",
+    "data": [
+      {
+        "text": "Do I need to wear a ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f41f045-c454-4350-9e84-39d24b61fe84",
+    "data": [
+      {
+        "text": "What type of ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": false
+      },
+      {
+        "text": " would be appropriate for ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99321382-ffa0-42e6-ab32-2683781b3e18",
+    "data": [
+      {
+        "text": "Can you recommend a suitable ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": true
+      },
+      {
+        "text": " for the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4708799e-35d2-49da-bee1-450249ffedd6",
+    "data": [
+      {
+        "text": "Is it suitable to wear a ",
+        "userDefined": false
+      },
+      {
+        "text": "hoodie",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "portland",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "007d304f-bacb-48c7-84eb-3a4ba710d288",
+    "data": [
+      {
+        "text": "should I wear a ",
+        "userDefined": false
+      },
+      {
+        "text": "sweatshirt",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9993fd0-018f-4370-9b72-194ebc3645cd",
+    "data": [
+      {
+        "text": "What kind of ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": true
+      },
+      {
+        "text": " should I wear ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "delhi",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a132d4f-3d44-4c64-b386-2355c6c00f6a",
+    "data": [
+      {
+        "text": "Should I wear a ",
+        "userDefined": false
+      },
+      {
+        "text": "hoodie",
+        "meta": "@jacketType",
+        "alias": "jacketType",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6a43673-c9db-47ab-b49c-8aebe7e24736",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "jacket",
+        "meta": "@jacket",
+        "alias": "jacket",
+        "userDefined": true
+      },
+      {
+        "text": " should I wear ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "datetime",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "boston",
+        "meta": "@sys.geo-city",
+        "alias": "geocity",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

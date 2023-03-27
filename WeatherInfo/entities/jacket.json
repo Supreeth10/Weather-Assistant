@@ -1,0 +1,9 @@
+{
+  "id": "8a3fe0e9-38be-495b-bb31-36cb1d80ed31",
+  "name": "jacket",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

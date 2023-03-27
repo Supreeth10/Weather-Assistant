@@ -1,0 +1,9 @@
+{
+  "id": "d94c6622-cdeb-4bc9-848e-b3d9926b33a2",
+  "name": "astronomy",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

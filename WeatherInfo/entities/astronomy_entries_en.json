@@ -1,0 +1,37 @@
+[
+  {
+    "value": "sunrise",
+    "synonyms": [
+      "sunrise",
+      "sun rise"
+    ]
+  },
+  {
+    "value": "sunset",
+    "synonyms": [
+      "sun set",
+      "senset"
+    ]
+  },
+  {
+    "value": "moonrise",
+    "synonyms": [
+      "moonrise",
+      "moon rise"
+    ]
+  },
+  {
+    "value": "moonset",
+    "synonyms": [
+      "moonset",
+      "moon set"
+    ]
+  },
+  {
+    "value": "moonphase",
+    "synonyms": [
+      "moonphase",
+      "moon phase"
+    ]
+  }
+]

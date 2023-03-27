@@ -1,0 +1,51 @@
+[
+  {
+    "value": "hoodie",
+    "synonyms": [
+      "hoodie",
+      "pullover"
+    ]
+  },
+  {
+    "value": "sweatshirt",
+    "synonyms": [
+      "sweatshirt",
+      "sweat shirt"
+    ]
+  },
+  {
+    "value": "warmcoat",
+    "synonyms": [
+      "warm coat",
+      "warmcoat"
+    ]
+  },
+  {
+    "value": "lightcoat",
+    "synonyms": [
+      "light coat",
+      "lightcoat"
+    ]
+  },
+  {
+    "value": "raincoat",
+    "synonyms": [
+      "rain coat",
+      "raincoat"
+    ]
+  },
+  {
+    "value": "windcheater",
+    "synonyms": [
+      "wind cheater",
+      "windcheater"
+    ]
+  },
+  {
+    "value": "heavycoat",
+    "synonyms": [
+      "heavy coat",
+      "heavycoat"
+    ]
+  }
+]
